@@ -1,3 +1,7 @@
+## Notice
+
+This project was originally started by [deltreey][0] and forked by me. Deltreey later deleted his repo causing my fork to become the primary. Since this project effectively fell into my lap, I can only say I will do my best to manage and maintain it. If you have any questions or bugs, please feel free to open an [issue][1].
+
 Dable
 =====
 
@@ -72,3 +76,6 @@ dable.UpdateStyle();				// Reapply our styles
 ```
 
 Every function inside of Dable is accessible, down to the initial rendering functions!
+
+[0]: https://github.com/deltreey
+[1]: https://github.com/danielkrainas/Dable/issues
